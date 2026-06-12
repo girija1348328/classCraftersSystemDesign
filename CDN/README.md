@@ -1,5 +1,3 @@
----
-
 # 🌍 CDN (Content Delivery Network) — 200 IQ Explanation
 
 ## 💡 What Most People Think

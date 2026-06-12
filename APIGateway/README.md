@@ -1,5 +1,3 @@
----
-
 # 🚪 API Gateway — 200 IQ Explanation
 
 ## 💡 What Most People Think

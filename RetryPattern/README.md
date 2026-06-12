@@ -1,4 +1,3 @@
----
 
 # 🔄 Retry Pattern — 200 IQ Explanation
 
